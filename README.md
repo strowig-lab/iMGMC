@@ -15,7 +15,7 @@
 See our paper for details.
 
 **An integrated metagenome catalog enables new insights into the murine gut microbiome**  
-Till R. Lesker, Abilash C. Durairaj, Eric. J.C. Gálvez, Ilias Lagkouvardos, John F. Baines, Thomas Clavel, Alexander Sczyrba, Alice C. McHardy, Till Strowig.
+Till R. Lesker, Abilash C. Durairaj, Eric. J.C. Gálvez, Ilias Lagkouvardos, John F. Baines, Thomas Clavel, Alexander Sczyrba, Alice C. McHardy, Till Strowig. *Cell reports* 30, no. 9 (2020): 2909-2922.
 https://doi.org/10.1016/j.celrep.2020.02.036
 
 ### External studies providing data:
@@ -58,6 +58,19 @@ For species abundance determination you can use [CoverM](https://github.com/wwoo
 
 Accession codes of the used gut metagenome sequences:
 European Nucleotide Archive: [ERP008710](https://www.ebi.ac.uk/ena/data/view/ERP008710), [ERA473426](https://www.ebi.ac.uk/ena/data/view/ERA473426), [PRJEB32890](https://www.ebi.ac.uk/ena/data/view/PRJEB32890) and to the Metagenomics Rapid Genomes/Metagenomes (MG-RAST) with ID 4661127.3/ [mgp5130](https://www.mg-rast.org/linkin.cgi?project=mgp5130)
+
+
+### Updates:
+
+The following files are additional or updated data. The mainly effects annotations files like KEGG-database links and taxonomic descriptions from GTDB.
+
+| Description | Size | Link |
+|--|--|--|
+| translated ORF sequences | 0.7 GB | [iMGMC-GeneID.proteins.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2160792&authkey=AFrsyTm0zNeULVM) |
+| KEGG KofamScan 03/20 | 14 MB | [iMGMC-GeneID-KofamScan.fasta.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2160791&authkey=AIRrgSqxRSC9rH8) |
+| mMAGs Taxonomy GTDB-Tk-v1.3 rs95 | 1 MB | [iMGMC-mMAGs-GTDB-Tk_v1.3.0-r95.tsv](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2160795&authkey=AN01HTW27uGPCEM) |
+
+
 
 ___
 
